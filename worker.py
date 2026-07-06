@@ -29,8 +29,8 @@ if not s_str:
 # ================== بياناتك السرية ==================
 TOKEN = os.environ.get("MY_TELEGRAM_TOKEN")
 GITHUB_TOKEN = os.environ.get("MY_GITHUB_TOKEN")
-GITHUB_USER = "mesbahikarim62-gif"
-REPO_NAME = "krimo-iptv"
+GITHUB_USER = "mesbahikarim63-commits"
+REPO_NAME = "hot-dodo"
 SESSION_STRING = s_str
 
 # خدعة النينجا: وضع التوكن مقسوم لتفادي حظر جيت هاب
